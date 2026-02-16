@@ -126,7 +126,7 @@ Users can filter data dynamically across multiple attributes such as department,
 ## 🖼️ Dashboard Preview
 
 ### Overview Dashboard
-![Overview Dashboard](documents/overwiew-dashboard-preview.png)
+![Overview Dashboard](documents/overview-dashboard-preview.png)
 
 ### Details Dashboard
 ![Details Dashboard](documents/details-dashboard-preview.png)
@@ -137,13 +137,14 @@ Users can filter data dynamically across multiple attributes such as department,
 tableau-hr-dashboard-projects/
 │
 ├── datasets/ # Raw employee dataset
-│ └── employees.csv
+│ └── dataset.csv
 │
 ├── documents/ # Dashboard files & mockups
-│ ├── HR Dashboard.twbx
-│ ├── mockup-overview-dashboard.png
-│ ├── mockup-detail-dashboard.png
-│ ├── overwiew-dashboard-preview.png
+│ ├── hr-dashboard.twbx
+│ ├── container-mockup-details.png
+│ ├── container-mockup-overview.png
+│ ├── mockup-hr-dashboard.pdf
+│ ├── overview-dashboard-preview.png
 │ └── details-dashboard-preview.png
 │
 ├── images/ # Dashboard assets & icons
