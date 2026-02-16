@@ -5,7 +5,7 @@ This project presents an interactive **Human Resources Analytics Dashboard** des
 
 The dashboard provides both a **high-level summary view** for strategic insights and a **detailed employee records view** for operational analysis, enabling data-driven HR decision-making.
 
-🔗 **Interactive Dashboard:** *(add your Tableau Public link here)*
+🔗 **Interactive Dashboard:** https://bit.ly/NVNR_Dashboard_02
 
 ---
 
