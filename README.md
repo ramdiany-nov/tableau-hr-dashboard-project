@@ -31,7 +31,8 @@ This project transforms raw employee data into an interactive dashboard that hel
 ## 🛠️ Tools Used
 - **Tableau Public** – Data visualisation  
 - **CSV** – Data source  
-- **Basic data preparation** inside Tableau  
+- **Basic data preparation** inside Tableau
+- **Figma** – Dashboard Background Design
 
 ---
 
