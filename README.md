@@ -108,22 +108,6 @@ Users can filter data dynamically across multiple attributes such as department,
 
 ---
 
-## 🔍 Key Insights *(Update after analysis)*
-
-- Workforce distribution varies across departments with certain functions dominating headcount.
-- Salary differences observed across education levels and age groups suggest experience-based compensation patterns.
-- Hiring trends indicate periods of growth followed by stabilization phases.
-
----
-
-## 💡 Business Recommendations *(Update after analysis)*
-
-- Monitor departments with high turnover to identify retention risks.
-- Ensure compensation fairness across gender and education groups.
-- Use demographic insights to support workforce planning and diversity initiatives.
-
----
-
 ## 🖼️ Dashboard Preview
 
 ### Overview Dashboard
