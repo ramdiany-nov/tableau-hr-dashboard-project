@@ -119,6 +119,8 @@ Users can filter data dynamically across multiple attributes such as department,
 ---
 
 ## 📂 Repository Structure
+
+```
 tableau-hr-dashboard-projects/
 │
 ├── datasets/ # Raw employee dataset
@@ -136,6 +138,7 @@ tableau-hr-dashboard-projects/
 │
 ├── LICENSE
 └── README.md
+```
 
 ---
 ##👋 About Me
